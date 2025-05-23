@@ -56,6 +56,7 @@ These LLMs are instruction-tuned and support English Q&A with high performance a
 ## 🌐 Deployment
 
 This app is hosted on:
+- **DEMO Video Drive Link** -  https://drive.google.com/file/d/1K4QhtA9cv68eZOjmklLlcu5CWqM_Ztif/view?usp=sharing
 - **Render** – https://rag-app-w9pz.onrender.com
 - **AWS EC2 with Elastic IP** – Provides persistent and scalable deployment with public access. The instance runs a production-grade backend configured with Gunicorn and Nginx for better performance and uptime.
 
